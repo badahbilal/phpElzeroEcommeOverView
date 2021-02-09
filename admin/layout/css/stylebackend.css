@@ -1,0 +1,93 @@
+/* Start Main Rulez */
+
+body {
+    background: #F4F4F4;
+    font-size: 16px;
+}
+
+.asterisk{
+    font-size: 30px;
+    position: absolute;
+    right: 25px;
+    top: 0px;
+    color: #d71515;
+}
+
+/* End Main Rulez */
+
+
+/* Strat Login Form */
+.login{
+    margin-top: 100px ;
+}
+
+
+
+
+/* End Login Form */
+
+
+
+/* Start nav bar */
+
+.lastItem
+{
+    left: -90px !important;
+}
+
+/* End Nav Bar*/
+
+
+
+/* Start style bootstrap edit */
+
+
+.form-control{
+    position: relative;
+}
+
+
+/* End style bootstrap edit */
+
+/* Start Dashboard Page */
+
+
+.boite-carte>div{
+    border-radius: 10px ;
+    overflow: hidden;
+
+}
+
+.carte a{
+    color :  white;
+}
+
+.carte a:hover{
+    text-decoration: none;
+}
+
+
+/* Start Dashboard Page */
+
+/* Start Membres page */
+
+
+.showPass{
+    position: absolute !important;
+    top: 11px;
+    right: -10px;
+}
+
+
+
+
+@media screen and (max-width: 1009px) {
+    .btn-tabel-sm {
+        width: 100%;
+        display: block;
+        margin: 5px 0 0 0 !important;
+
+    }
+}
+
+/*  End Members Page */
